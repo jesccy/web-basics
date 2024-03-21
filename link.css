@@ -1,0 +1,12 @@
+#box1{
+    border: 5px solid;
+    width: 1420px;
+    height: 450;
+
+}
+#box2{
+    border: 5px;
+    width: 0px;
+    height: 0px;
+
+}
