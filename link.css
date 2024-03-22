@@ -1,12 +1,12 @@
-#box1{
-    border: 5px solid;
-    width: 1420px;
-    height: 450;
-
+#pink {
+    color: paleturquoise
 }
-#box2{
-    border: 5px;
-    width: 0px;
-    height: 0px;
-
+.city {
+    color: aqua
+}
+.box {
+    border: 5px silver;
+    width: 40px;
+    margin: 10px;
+    padding: 10px;
 }
