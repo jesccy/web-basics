@@ -1,0 +1,36 @@
+.about-us-wrap {
+    /* display: flex;
+    align-items: center; */
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.imgWrap {
+    margin-right: 50px;
+}
+
+.centerItems {
+    display: flex;
+    align-items: center;
+}
+
+.imgWrap img {
+    width: 50px;
+    height: 60px;
+}
+
+.mywrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.icontentwrap h3 {
+    font-size: 24px;
+    font-weight: 800;
+    color: red;
+    margin-bottom: 0;
+}
