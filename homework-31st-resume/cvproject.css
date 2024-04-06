@@ -1,0 +1,268 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.oomar{
+   padding-top: 58px;
+    font-size: 42px;
+    padding-bottom: 17px;
+    text-align: center;
+    
+
+}
+.llinks ul{
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+color: #5e527c;
+
+}
+.llinks ul li{
+    padding: 0px 7px;
+    align-items: center;
+    display: flex;
+    padding-bottom: 5px;
+
+}
+.llinks span{
+    padding-left: 5px;
+}
+.container{
+    width: 1180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.edu h1{
+    font-size: 26px;
+    position: relative;
+}
+.edu h1::before{
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    bottom: -4px;
+    width: 100%;
+    height: 1px;
+}
+.leffrightt{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+
+}
+.is {color: #5e527c;}
+.leffrightr{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 6px;
+    color: #5e527c;
+}
+.weightage{
+    font-weight: 600;
+
+}
+.securr{
+    text-align: center;
+}
+.softwarereliablity{
+    padding-bottom: 6px;
+}
+.container{
+    padding: 6px;
+}
+.projects h1{
+    font-size: 22px;
+    position: relative;
+}
+.projects h1::before{
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    bottom: -4px;
+    width: 100%;
+    height: 2px;
+}
+.leadership h1{
+    font-size: 23px;
+position: relative;
+}
+.leadership h1::before{
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    bottom: -5px;
+    width: 100%;
+    height: 2px;
+}
+.container ul{
+    list-style-type: disc;
+}
+.skiils h1{
+    font-size: 21px;
+    font-weight: 600;
+    position: relative;
+}
+.skiils h1::before{
+    position: absolute;
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-color: #000000;
+    bottom: 0px;
+    width: 100%;
+    height: 2px;
+}
+a:hover{
+    color: rgb(108, 193, 16);
+}
+.llinks a:hover{
+    color: rgb(108, 193, 16);
+}
+.sppacce{
+    padding: 5px;
+}
+.sppacce li{
+    margin-bottom: 3px;
+}
+.tilt{
+    margin-left: 41px;
+    margin-top: 7px;
+}
